@@ -2,13 +2,10 @@
 
 This is my Portfolio based on my journey throughout this semester with Multimedia & Development.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Learning Resources
 
-### Markdown
+Throughout this semester we have been given a variety of resources in order to help us along the way with the new types of software for our projects and assessments. Each week we learned new things regarding different types of Multimedia and how they we're being created in a variety of ways. From Adobe Photoshop for Image manipulation, Adobe Illustrator for creating graphics and illustrations, Adobe Premiere Pro for video editing, and now currently Adobe Animate for our animation.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
 Syntax highlighted code block
 
 # Header 1
