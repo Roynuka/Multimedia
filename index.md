@@ -6,7 +6,8 @@ This is my Portfolio based on my journey throughout this semester with Multimedi
 
 Throughout this semester we have been given a variety of resources in order to help us along the way with the new types of software for our projects and assessments. Each week we learned new things regarding different types of Multimedia and how they we're being created in a variety of ways. From Adobe Photoshop for Image manipulation, Adobe Illustrator for creating graphics and illustrations, Adobe Premiere Pro for video editing, and now currently Adobe Animate for our animation.
 
-Syntax highlighted code block
+Resources were easy to come by but learning how to use it was just a matter of putting the time and effor into it. [Lynda](https://www.lynda.com/SharedPlaylist/b43406c327eb4a149568532ca17ffbfd?org=op.ac.nz) had some more tutorials for us which definitely helped me at times.
+
 
 # Header 1
 ## Header 2
